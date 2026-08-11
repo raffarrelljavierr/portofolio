@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #2563eb;
+    --primary-hover: #1d4ed8;
+    --text-main: #1f2937;
+    --text-muted: #4b5563;
+    --bg-main: #ffffff;
+    --bg-light: #f3f4f6;
+    --border-color: #e5e7eb;
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
